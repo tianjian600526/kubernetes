@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/pause-amd64:v1.13.4 
+FROM gcr.io/google_containers/pause-amd64:3.1 
 MAINTAINER tianjian
